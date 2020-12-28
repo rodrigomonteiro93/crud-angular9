@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Caneta vermelha",
+      "price": 3.3
+    },
+    {
+      "id": 4,
+      "name": "Caneta verde",
+      "price": 1.2
+    },
+    {
+      "name": "Produto d eteste",
+      "price": 1.2,
+      "id": 5
+    },
+    {
+      "name": "Produto d eteste",
+      "price": 1.2,
+      "id": 7
+    },
+    {
+      "name": "teste",
+      "price": "312312",
+      "id": 8
+    }
+  ]
+}
