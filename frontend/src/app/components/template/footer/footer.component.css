@@ -1,0 +1,10 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+}
+.footer strong span{
+    font-weight: 600;
+}
